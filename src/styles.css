@@ -1,0 +1,13 @@
+body {
+  background: url("https://cdnb.artstation.com/p/assets/images/images/006/704/933/large/min-bak-mu-l-3.jpg?1500610493")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+* {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
